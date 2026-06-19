@@ -1,0 +1,173 @@
+# 🚀 LeetCode Solutions — MONISH_PANDIAN
+
+![Total Solved](https://img.shields.io/badge/Total%20Solved-220-brightgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-213%20Problems-orange?style=for-the-badge&logo=java)
+![Rank](https://img.shields.io/badge/LeetCode%20Rank-707%2C817-blue?style=for-the-badge&logo=leetcode)
+![50 Days](https://img.shields.io/badge/50%20Days%20Badge-2026-gold?style=for-the-badge)
+![May Challenge](https://img.shields.io/badge/May%20LeetCoding-Challenge%202026-purple?style=for-the-badge)
+
+---
+
+## 👨‍💻 About
+
+> Consistently solving LeetCode problems using Java with a pattern-based approach to strengthen Data Structures and Algorithms fundamentals.
+
+- 🔗 LeetCode: [MONISH_PANDIAN](https://leetcode.com/u/MONISH_PANDIAN/)
+- 💻 Primary Language: **Java**
+- 🌐 Also solved in: **C** (6), **Python** (1)
+- 🏆 Badges: **50 Days Badge 2026** · **May LeetCoding Challenge 2026**
+
+---
+
+## 📊 Problem Stats
+
+<!-- UPDATE THIS TABLE after solving new problems -->
+
+| Language | Problems Solved |
+|----------|----------------|
+| ☕ Java   | 213 |
+| 🔵 C      | 6   |
+| 🐍 Python | 1   |
+| **Total** | **220** |
+
+| Difficulty | Count |
+|------------|-------|------|
+| 🟢 Easy    | 164 | 
+| 🟡 Medium  | 46 | 
+| 🔴 Hard    | 10 | 
+
+---
+
+## 🧠 Skills & Patterns Mastered
+
+| Level | Pattern | Problems |
+|-------|---------|----------|
+| 🔴 Advanced | Dynamic Programming | 16 |
+| 🔴 Advanced | Trie | 3 |
+| 🔴 Advanced | Divide and Conquer | 2 |
+| 🟡 Intermediate | Hash Table | 53 |
+| 🟡 Intermediate | Math | 37 |
+| 🟡 Intermediate | Greedy | 17 |
+| 🟢 Fundamental | Array | 134 |
+| 🟢 Fundamental | String | 74 |
+| 🟢 Fundamental | Two Pointers | 42 |
+
+---
+
+## 📁 Repository Structure
+
+```
+leetcode-solutions/
+│
+├── arrays/
+├── strings/
+├── linked-list/
+├── trees/
+├── graphs/
+├── dynamic-programming/
+├── greedy/
+├── stack/
+├── binary-search/
+├── math/
+└── mixed/             # Problems using multiple patterns
+```
+
+---
+## ⚙️ Tech Stack
+
+- Language: Java
+- Concepts: DSA, Problem Solving
+- Platforms: LeetCode
+- Tools: Git, GitHub
+
+---
+## 📝 Solution File Format (Java)
+
+Every solution follows this standard template:
+
+```java
+/**
+ * Problem: <Problem Name> (#<Number>)
+ * Difficulty: Easy / Medium / Hard
+ * Pattern: Array / HashMap / DP / etc.
+ * Time Complexity: O(?)
+ * Space Complexity: O(?)
+ * Approach: <One line explanation>
+ * LeetCode: https://leetcode.com/problems/<slug>/
+ */
+public class ProblemName {
+    // solution here
+}
+```
+## 🧭 Pattern Thinking Approach
+
+Each problem is solved using the most optimal primary pattern:
+
+- Hashing → Lookup / frequency problems
+- Sliding Window → Subarray / substring optimization
+- Two Pointers → Sorted traversal problems
+- BFS / DFS → Tree and Graph traversal
+- DP → Optimal substructure problems
+---
+
+## 🔥 Daily Commit Routine
+
+```bash
+# Step 1: Solve problem on LeetCode
+
+# Step 2: Save solution in correct folder
+# e.g. arrays/TwoSum.java
+
+# Step 3: Commit with standard message
+git add .
+git commit -m "Add: ProblemName - Pattern - Difficulty"
+git push
+```
+
+### Commit Message Examples:
+```
+Add: TwoSum - HashMap - Easy
+Add: LongestSubstring - SlidingWindow - Medium  
+Add: WordBreak - DP+String - Medium
+Add: NumberOfIslands - Graph+BFS - Medium
+```
+
+---
+
+## 📈 Progress Milestones
+
+- [x] 🎯 50 Problems Solved ✅
+- [x] 🎯 100 Problems Solved ✅
+- [x] 🎯 200 Problems Solved ✅
+- [x] 🎯 220 Problems Solved ✅
+- [ ] 🎯 300 Problems
+- [ ] 🎯 400 Problems
+- [ ] 🎯 500 Problems
+
+---
+
+## 🏅 Badges Earned
+
+| Badge | Description |
+|-------|-------------|
+| 🥇 50 Days Badge 2026 | Solved problems for 50 days in 2026 |
+| 🗓️ May LeetCoding Challenge 2026 | Completed May monthly challenge |
+
+---
+## 🎯 Focus
+
+Building strong problem-solving intuition through patterns, consistency, and real interview-based practice.
+
+---
+## 🤝 Connect
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-MONISH__PANDIAN-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/MONISH_PANDIAN/)
+
+---
+
+> ⭐ *If this repo helped you, give it a star!*
+>
+> 💡 *"One problem a day keeps unemployment away."*
+## 📌 Repository Goal
+
+This repository documents my journey of mastering Data Structures and Algorithms through consistent problem solving, pattern recognition, and optimized coding practices.
