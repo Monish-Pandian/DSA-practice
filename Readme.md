@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions — MONISH_PANDIAN
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-220-brightgreen?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-223-brightgreen?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-213%20Problems-orange?style=for-the-badge&logo=java)
 ![Rank](https://img.shields.io/badge/LeetCode%20Rank-707%2C817-blue?style=for-the-badge&logo=leetcode)
 ![50 Days](https://img.shields.io/badge/50%20Days%20Badge-2026-gold?style=for-the-badge)
@@ -33,26 +33,11 @@
 | Difficulty | Count |
 |------------|-------|------|
 | 🟢 Easy    | 164 | 
-| 🟡 Medium  | 46 | 
-| 🔴 Hard    | 10 | 
+| 🟡 Medium  | 48 | 
+| 🔴 Hard    | 11 | 
 
 ---
 
-## 🧠 Skills & Patterns Mastered
-
-| Level | Pattern | Problems |
-|-------|---------|----------|
-| 🔴 Advanced | Dynamic Programming | 16 |
-| 🔴 Advanced | Trie | 3 |
-| 🔴 Advanced | Divide and Conquer | 2 |
-| 🟡 Intermediate | Hash Table | 53 |
-| 🟡 Intermediate | Math | 37 |
-| 🟡 Intermediate | Greedy | 17 |
-| 🟢 Fundamental | Array | 134 |
-| 🟢 Fundamental | String | 74 |
-| 🟢 Fundamental | Two Pointers | 42 |
-
----
 
 ## 📁 Repository Structure
 
@@ -139,7 +124,6 @@ Add: NumberOfIslands - Graph+BFS - Medium
 - [x] 🎯 50 Problems Solved ✅
 - [x] 🎯 100 Problems Solved ✅
 - [x] 🎯 200 Problems Solved ✅
-- [x] 🎯 220 Problems Solved ✅
 - [ ] 🎯 300 Problems
 - [ ] 🎯 400 Problems
 - [ ] 🎯 500 Problems
