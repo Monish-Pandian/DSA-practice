@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions — MONISH_PANDIAN
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-223-brightgreen?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-225-brightgreen?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-213%20Problems-orange?style=for-the-badge&logo=java)
 ![Rank](https://img.shields.io/badge/LeetCode%20Rank-707%2C817-blue?style=for-the-badge&logo=leetcode)
 ![50 Days](https://img.shields.io/badge/50%20Days%20Badge-2026-gold?style=for-the-badge)
@@ -25,16 +25,16 @@
 
 | Language | Problems Solved |
 |----------|----------------|
-| ☕ Java   | 213 |
+| ☕ Java   | 214 |
 | 🔵 C      | 6   |
 | 🐍 Python | 1   |
 | **Total** | **220** |
 
 | Difficulty | Count |
 |------------|-------|------|
-| 🟢 Easy    | 164 | 
+| 🟢 Easy    | 165 | 
 | 🟡 Medium  | 48 | 
-| 🔴 Hard    | 11 | 
+| 🔴 Hard    | 12 | 
 
 ---
 
