@@ -1,7 +1,7 @@
 # 🚀 LeetCode Solutions — MONISH_PANDIAN
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-229-brightgreen?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-213%20Problems-orange?style=for-the-badge&logo=java)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-233-brightgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-232%20Problems-orange?style=for-the-badge&logo=java)
 ![Rank](https://img.shields.io/badge/LeetCode%20Rank-707%2C817-blue?style=for-the-badge&logo=leetcode)
 ![50 Days](https://img.shields.io/badge/50%20Days%20Badge-2026-gold?style=for-the-badge)
 ![May Challenge](https://img.shields.io/badge/May%20LeetCoding-Challenge%202026-purple?style=for-the-badge)
@@ -14,6 +14,7 @@
 
 - 🔗 LeetCode: [MONISH_PANDIAN](https://leetcode.com/u/MONISH_PANDIAN/)
 - 💻 Primary Language: **Java**
+- 🌐 Also solved in: **MySql** (1)
 - 🏆 Badges: **50 Days Badge 2026** · **May LeetCoding Challenge 2026**
 
 ---
@@ -26,6 +27,7 @@
 | 🟡 Medium  | 51 | 
 | 🔴 Hard    | 14 | 
 |**Total** | **233** |
+
 ---
 
 
