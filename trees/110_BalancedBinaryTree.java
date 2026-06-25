@@ -1,11 +1,12 @@
 /**
- * Problem: Diameter of Binary Tree (#543)
+ * Problem: Balanced Binary Tree (#110)
  * Difficulty: Easy
  * Pattern: DFS, Binary Tree
  * Time Complexity: O(n)
  * Space Complexity: O(h)
- * LeetCode: https://leetcode.com/problems/diameter-of-binary-tree/
+ * LeetCode: https://leetcode.com/problems/balanced-binary-tree/
  */
+
 
 /**
  * Definition for a binary tree node.
@@ -24,11 +25,8 @@
  */
 class Solution {
 
-    int diameter = 0;
-
-    public int diameterOfBinaryTree(TreeNode root) {
-        height(root);
-        return diameter;
+    public boolean isBalanced(TreeNode root) {
+        return height(root) != -1;
     }
 
     private int height(TreeNode root) {
@@ -37,16 +35,18 @@ class Solution {
             return 0;
 
         int leftHeight = height(root.left);
+
+        if(leftHeight == -1)
+            return -1;
+
         int rightHeight = height(root.right);
 
-        diameter = Math.max(
-            diameter,
-            leftHeight + rightHeight
-        );
+        if(rightHeight == -1)
+            return -1;
 
-        return 1 + Math.max(
-            leftHeight,
-            rightHeight
-        );
+        if(Math.abs(leftHeight - rightHeight) > 1)
+            return -1;
+
+        return 1 + Math.max(leftHeight, rightHeight);
     }
 }

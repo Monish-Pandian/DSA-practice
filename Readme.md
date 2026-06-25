@@ -14,28 +14,18 @@
 
 - 🔗 LeetCode: [MONISH_PANDIAN](https://leetcode.com/u/MONISH_PANDIAN/)
 - 💻 Primary Language: **Java**
-- 🌐 Also solved in: **C** (6), **Python** (1)
 - 🏆 Badges: **50 Days Badge 2026** · **May LeetCoding Challenge 2026**
 
 ---
 
 ## 📊 Problem Stats
 
-<!-- UPDATE THIS TABLE after solving new problems -->
-
-| Language | Problems Solved |
-|----------|----------------|
-| ☕ Java   | 222 |
-| 🔵 C      | 6   |
-| 🐍 Python | 1   |
-| **Total** | **229** |
-
 | Difficulty | Count |
 |------------|-------|------|
-| 🟢 Easy    | 166 | 
-| 🟡 Medium  | 50 | 
-| 🔴 Hard    | 13 | 
-
+| 🟢 Easy    | 168 | 
+| 🟡 Medium  | 51 | 
+| 🔴 Hard    | 14 | 
+|**Total** | **233** |
 ---
 
 
@@ -77,7 +67,6 @@ Every solution follows this standard template:
  * Pattern: Array / HashMap / DP / etc.
  * Time Complexity: O(?)
  * Space Complexity: O(?)
- * Approach: <One line explanation>
  * LeetCode: https://leetcode.com/problems/<slug>/
  */
 public class ProblemName {
