@@ -1,7 +1,7 @@
 # 🚀 LeetCode Solutions — MONISH_PANDIAN
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-247-brightgreen?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-246%20Problems-orange?style=for-the-badge&logo=java)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-250-brightgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-249%20Problems-orange?style=for-the-badge&logo=java)
 ![Rank](https://img.shields.io/badge/LeetCode%20Rank-649%2C044-blue?style=for-the-badge&logo=leetcode)
 ![50 Days](https://img.shields.io/badge/50%20Days%20Badge-2026-gold?style=for-the-badge)
 ![May Challenge](https://img.shields.io/badge/May%20LeetCoding-Challenge%202026-purple?style=for-the-badge)
@@ -23,13 +23,12 @@
 ---
 
 | Difficulty | Count |
-|------------|-------|------|
+|------------|-------|
 | 🟢 Easy    | 170 | 
-| 🟡 Medium  | 62 | 
+| 🟡 Medium  | 65 | 
 | 🔴 Hard    | 16 | 
-|**Total** | **247** |
+|**Total** | **250** |
 
----
 
 ---
 ## 📁 Repository Structure
@@ -97,19 +96,9 @@ Each problem is solved using the most optimal primary pattern:
 
 # Step 3: Commit with standard message
 git add .
-git commit -m "Add: ProblemName - Pattern - Difficulty"
+git commit -m "Add: ProblemName - Problem Name"
 git push
 ```
-
-### Commit Message Examples:
-```
-Add: TwoSum - HashMap - Easy
-Add: LongestSubstring - SlidingWindow - Medium  
-Add: WordBreak - DP+String - Medium
-Add: NumberOfIslands - Graph+BFS - Medium
-```
-
----
 
 ## 📈 Progress Milestones
 
