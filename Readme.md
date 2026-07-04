@@ -1,7 +1,7 @@
 # 🚀 LeetCode Solutions — MONISH_PANDIAN
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-251-brightgreen?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-250%20Problems-orange?style=for-the-badge&logo=java)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-254-brightgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-253%20Problems-orange?style=for-the-badge&logo=java)
 ![Rank](https://img.shields.io/badge/LeetCode%20Rank-649%2C044-blue?style=for-the-badge&logo=leetcode)
 ![50 Days](https://img.shields.io/badge/50%20Days%20Badge-2026-gold?style=for-the-badge)
 ![May Challenge](https://img.shields.io/badge/May%20LeetCoding-Challenge%202026-purple?style=for-the-badge)
@@ -24,10 +24,10 @@
 
 | Difficulty | Count |
 |------------|-------|
-| 🟢 Easy    | 170 | 
-| 🟡 Medium  | 65 | 
+| 🟢 Easy    | 171 | 
+| 🟡 Medium  | 67 | 
 | 🔴 Hard    | 17 | 
-|**Total** | **251** |
+|**Total** | **254** |
 
 
 ---
@@ -96,7 +96,7 @@ Each problem is solved using the most optimal primary pattern:
 
 # Step 3: Commit with standard message
 git add .
-git commit -m "Add: ProblemName - Problem Name"
+git commit -m "Add Problem : Problem Name"
 git push
 ```
 
@@ -117,7 +117,7 @@ git push
 |-------|-------------|
 | 🥇 50 Days Badge 2026 | Solved problems for 50 days in 2026 |
 | 🗓️ May LeetCoding Challenge 2026 | Completed May monthly challenge |
-
+| 🗓️ June LeetCoding Challenge 2026 | Completed May monthly challenge |
 ---
 ## 🎯 Focus
 
