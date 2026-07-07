@@ -1,10 +1,10 @@
 # 🚀 LeetCode Solutions — MONISH_PANDIAN
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-257-brightgreen?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-256%20Problems-orange?style=for-the-badge&logo=java)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-260-brightgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-259%20Problems-orange?style=for-the-badge&logo=java)
 ![Rank](https://img.shields.io/badge/LeetCode%20Rank-649%2C044-blue?style=for-the-badge&logo=leetcode)
 ![50 Days](https://img.shields.io/badge/50%20Days%20Badge-2026-gold?style=for-the-badge)
-![May Challenge](https://img.shields.io/badge/May%20LeetCoding-Challenge%202026-purple?style=for-the-badge)
+![100 Days](https://img.shields.io/badge/100%20Days%20Badge-2026-gold?style=for-the-badge)
 
 ---
 
@@ -24,10 +24,10 @@
 
 | Difficulty | Count |
 |------------|-------|
-| 🟢 Easy    | 171 | 
-| 🟡 Medium  | 69 | 
-| 🔴 Hard    | 18 | 
-|**Total** | **254** |
+| 🟢 Easy    | 172 | 
+| 🟡 Medium  | 71 | 
+| 🔴 Hard    | 17 | 
+|**Total** | **260** |
 
 
 ---
@@ -111,11 +111,10 @@ git push
 
 ---
 
-## 🏅 Badges Earned
+## 🏅 Badges Also Earned
 
 | Badge | Description |
 |-------|-------------|
-| 🥇 50 Days Badge 2026 | Solved problems for 50 days in 2026 |
 | 🗓️ May LeetCoding Challenge 2026 | Completed May monthly challenge |
 | 🗓️ June LeetCoding Challenge 2026 | Completed May monthly challenge |
 ---
