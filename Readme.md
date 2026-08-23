@@ -1,7 +1,7 @@
 # 🚀 LeetCode Solutions — MONISH_PANDIAN
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-322-brightgreen?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-321%20Problems-orange?style=for-the-badge&logo=java)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-324-brightgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-323%20Problems-orange?style=for-the-badge&logo=java)
 ![Rank](https://img.shields.io/badge/LeetCode%20Rank-649%2C044-blue?style=for-the-badge&logo=leetcode)
 ![50 Days](https://img.shields.io/badge/50%20Days%20Badge-2026-gold?style=for-the-badge)
 ![100 Days](https://img.shields.io/badge/100%20Days%20Badge-2026-gold?style=for-the-badge)
@@ -24,10 +24,10 @@
 
 | Difficulty | Count |
 |------------|-------|
-| 🟢 Easy    | 188 | 
-| 🟡 Medium  | 104 | 
+| 🟢 Easy    | 189 | 
+| 🟡 Medium  | 105 | 
 | 🔴 Hard    | 30 | 
-|**Total** | **322** |
+|**Total** | **324** |
 
 
 ---
